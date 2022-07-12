@@ -1,0 +1,7 @@
+{
+  "name": "M8_IDH",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
