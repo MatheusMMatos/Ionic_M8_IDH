@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
+  appId: 'com.elgin.idh',
   appName: 'M8_IDH',
   webDir: 'www',
   bundledWebRuntime: false
